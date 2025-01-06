@@ -1,0 +1,51 @@
+{
+  "id": 0,
+  "DayOfWeek": "1",
+  "hashcode": "833df9a58d62325f54984ec347a24f21",
+  "start": "1/6/2025 12:00:00 AM",
+  "end": "1/6/2025 12:14:59 AM",
+  "Duration": "899",
+  "Type": "Normal",
+  "SubjectList": [
+    {
+      "name": "KWH",
+      "type": "EMS-Meter",
+      "value": "{\"min\":\"0.0473732718893802\",\"max\":\"0.0473732718893802\",\"avrage\":\"0.0473732718893802\",\"sum\":\"0.0473732718893802\",\"count\":\"1\",\"delta\":\"0\"}"
+    },
+    {
+      "name": "KWHCost",
+      "type": "EMS-Meter",
+      "value": "{\"min\":\"0\",\"max\":\"0\",\"avrage\":\"0\",\"sum\":\"0\",\"count\":\"1\",\"delta\":\"0\"}"
+    },
+    {
+      "name": "powerrate",
+      "type": "EMS-Meter",
+      "value": "{\"min\":\"0\",\"max\":\"0\",\"avrage\":\"0\",\"sum\":\"0\",\"count\":\"1\",\"delta\":\"0\"}"
+    },
+    {
+      "name": "CO2",
+      "type": "EMS-Meter",
+      "value": "{\"min\":\"23.2129032257965\",\"max\":\"23.2129032257965\",\"avrage\":\"23.2129032257965\",\"sum\":\"23.2129032257965\",\"count\":\"1\",\"delta\":\"0\"}"
+    },
+    {
+      "name": "KVARH",
+      "type": "EMS-Meter",
+      "value": "{\"min\":\"0\",\"max\":\"0\",\"avrage\":\"0\",\"sum\":\"0\",\"count\":\"1\",\"delta\":\"0\"}"
+    },
+    {
+      "name": "KVARHCost",
+      "type": "EMS-Meter",
+      "value": "{\"min\":\"0\",\"max\":\"0\",\"avrage\":\"0\",\"sum\":\"0\",\"count\":\"1\",\"delta\":\"0\"}"
+    },
+    {
+      "name": "Shift",
+      "type": "EMS-Meter",
+      "value": "{\"ShiftName\":\"BaseTariff\",\"Duration\":\"899\"}"
+    },
+    {
+      "name": "ShiftCost",
+      "type": "EMS-Meter",
+      "value": "{\"min\":\"17980\",\"max\":\"17980\",\"avrage\":\"17980\",\"sum\":\"17980\",\"count\":\"1\",\"delta\":\"0\"}"
+    }
+  ]
+}
