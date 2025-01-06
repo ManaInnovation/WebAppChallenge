@@ -1,0 +1,9 @@
+API URL:
+http://www.asset23d.ir/api/cmd
+
+Post methode:
+{"cmd":"GetGeneralFrame",
+"subject":"GetEMSFrame",
+"id":"559",
+"type":"Normal",
+"datetime":"2025-01-06 12:12:12"}
